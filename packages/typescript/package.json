@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^20.3.3",
+    "@types/ws": "^8.5.5",
+    "chalk": "^4",
+    "openai": "^3.3.0",
+    "typescript": "^5.1.6",
+    "ws": "^8.13.0"
+  }
+}
